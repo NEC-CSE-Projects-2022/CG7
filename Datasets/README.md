@@ -67,9 +67,10 @@ Additionally, early detection of CKD is a critical healthcare challenge. Using t
 - Diabetes Mellitus (dm)  
 - Hypertension (htn)  
 
-## Summary
+
 
 ## Summary
 
 This dataset provides comprehensive clinical and laboratory information for the prediction of Chronic Kidney Disease (CKD). It includes a balanced mix of numerical and categorical attributes related to patient health, enabling effective analysis, preprocessing, and classification using machine learning techniques. Due to its real-world relevance, reliable labeling, and suitability for early disease detection, the dataset serves as a strong foundation for developing accurate and interpretable CKD prediction models that can support clinical decision-making.
+
 
