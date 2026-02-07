@@ -2,16 +2,16 @@
 CG7 – Echoes of the Hidden Filter: Interpretable Ensemble Intelligence for Early CKD Prognosis
 
 ## Team Info
-- ** Dodda Venkata Reddy **
+- **Dodda Venkata Reddy**
 _Work Done: Data preprocessing, ensemble model design, Random Forest & XGBoost implementation
 
-- 22471A05J9 —  ** Sura Venkata Siva Naga Lakshmi **
+- 22471A05J9 —  **Sura Venkata Siva Naga Lakshmi**
 _Work Done: Feature engineering, SMOTE balancing, model evaluation, result analysis
 
-- 22471A05G2 — ** Kolli Kaveri **
+- 22471A05G2 — **Kolli Kaveri**
 _Work Done: Exploratory Data Analysis (EDA), visualization, preprocessing pipeline
 
-- 22471A05G3 — ** Konda Pratyusha **
+- 22471A05G3 — **Konda Pratyusha**
 _Work Done: Explainable AI integration (SHAP & LIME), documentation, deployment planning
 
 ---
@@ -30,24 +30,24 @@ Original conference/IEEE paper used as inspiration for the model.
 ---
 
 ## Our Improvement Over Existing Paper
-Combined multiple classifiers instead of relying on a single model
+- Combined multiple classifiers instead of relying on a single model
 
-Applied SMOTE to handle real-world class imbalance
+- Applied SMOTE to handle real-world class imbalance
 
-Used variance thresholding + RFE for optimal feature selection
+- Used variance thresholding + RFE for optimal feature selection
 
-Integrated SHAP and LIME to improve interpretability and clinical trust
+- Integrated SHAP and LIME to improve interpretability and clinical trust
 
-Achieved ~99% accuracy with Random Forest, outperforming baseline models
+- Achieved ~99% accuracy with Random Forest, outperforming baseline models
 
 ---
 
 ## About the Project
 
-What the project does:
+**What the project does:**
 Predicts whether a patient has Chronic Kidney Disease using clinical and demographic data.
 
-Why it is useful:
+**Why it is useful:**
 Early detection allows timely medical intervention, reducing the risk of kidney failure and costly treatments like dialysis or transplant.
 
 Workflow:
