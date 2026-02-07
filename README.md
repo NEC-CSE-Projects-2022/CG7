@@ -2,7 +2,7 @@
 CG7 – Echoes of the Hidden Filter: Interpretable Ensemble Intelligence for Early CKD Prognosis
 
 ## Team Info
-   Dodda Venkata Reddy
+- Dodda Venkata Reddy
 _Work Done: Data preprocessing, ensemble model design, Random Forest & XGBoost implementation
 
 - 22471A05J9 —   Sura Venkata Siva Naga Lakshmi
